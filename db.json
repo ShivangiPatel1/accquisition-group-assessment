@@ -1,0 +1,242 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userName": "Dolfi_patel",
+      "profilePicture": "https://i.pravatar.cc/150?img=1",
+      "img": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "All you need is to love Toronto skyline. Captured late night",
+      "comments": [
+        {
+          "id": "1",
+          "userName": "Akash",
+          "text": "OMG! what a picture, what camera you used for this one."
+        },
+        {
+          "id": "2",
+          "userName": "Nilka",
+          "text": "I know I missed the view last night. I will join you next time"
+        },
+        {
+          "id": "3",
+          "userName": "Utsav",
+          "text": "Very True, Torronto skyline in best in Canada. By the way are you available thursday?"
+        }
+      ],
+      "likedBy":"ShruTea_",
+      "likedByNo":20,
+      "likedByImg":"https://i.pravatar.cc/150?img=5",
+      "hours":2
+    },
+    {
+      "id": 2,
+      "userName": "Footprints_as1",
+      "profilePicture": "https://i.pravatar.cc/150?img=2",
+      "img": "https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "caption": "Take a good book to bed with you—books do not snore.Books are a uniquely portable magic.",
+      "comments": [
+        {
+          "id": "1",
+          "userName": "MrGr*",
+          "text": "Well Said Buddy, I too love reading lot of books.Try taking local library memberships."
+        }, {
+          "id": "2",
+          "userName": "Akashay11",
+          "text": "Hey,I have lot of books in my basement wouldyou like to borrow some."
+        }, {
+          "id": "3",
+          "userName": "VadiH",
+          "text": "Ohh wow! Accompany me some time. I love discussing on books after reading.Lets hangout some day"
+        }
+      ],
+      "likedBy":"Kirti",
+      "likedByNo":19, 
+       "likedByImg":"https://i.pravatar.cc/150?img=8", "hours":4
+    },
+    {
+      "id": 3,
+      "userName": "Akax_1",
+      "profilePicture": "https://i.pravatar.cc/150?img=3",
+      "img": "https://www.travelmanagers.com.au/wp-content/uploads/2012/08/AdobeStock_254529936_Railroad-to-Denali-National-Park-Alaska_750x500.jpg",
+      "caption": "Mount Kilimanjaro – Tanzania.Will I be able to Climb this montain,what do you guys say?",
+      "comments": [
+        {
+          "id": "1",
+          "userName": "Shivangi",
+          "text": "lol, Do not try doing that."
+        },
+        {
+          "id": "2",
+          "userName": "Dan",
+          "text": "You can do anything if you are willing to.Try and let me know how was it"
+        },
+        {
+          "id": "3",
+          "userName": "KuhsK",
+          "text": "I do not know about this but, I am going to hike panaroma ridge. Want to join?"
+        }
+      ],
+      "likedBy":"Neela",
+      "likedByNo":30,
+      "likedByImg":"https://i.pravatar.cc/150?img=25",
+      "hours":8
+    },
+    {
+      "id": 4,
+      "userName": "Yakshit_1",
+      "profilePicture": "https://i.pravatar.cc/150?img=4",
+      "img": "https://d3qvqlc701gzhm.cloudfront.net/thumbs/8d5c38559d4692dd66676c0c27f5175f26060507b17237527fd81c666dc04ddc-750.jpg",
+      "caption": "Moraine Lake - Its waters are the most amazing colour. It is so vibrant It looks like painting",
+      "comments": [
+        {
+          "id": "1",
+          "userName": "KKumar",
+          "text": "Ohh wow! I think I will have to plan the visit soon.I will call you for advice"
+        },
+        {
+          "id": "2",
+          "userName": "Yakshit_1",
+          "text": "For sure, try visiting during sunrise. The mountains and lakes look beutiful during that time"
+        },
+        {
+          "id": "3",
+          "userName": "Kitco_cool",
+          "text": "This is beutiful picture. You got good photograhic skills."
+        }
+      ],
+      "likedBy":"Gagan_2",
+      "likedByNo":15,
+      "likedByImg":"https://i.pravatar.cc/150?img=35",
+      "hours":5
+    },
+    {
+      "id": 5,
+      "userName": "Lady_cool",
+      "profilePicture": "https://i.pravatar.cc/150?img=5",
+      "img": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "caption": " Feeling the beauty and love around , Symbol of Love- Taj Mahal",
+      "comments": [
+        {
+          "id": "1",
+          "userName": "Krish_12",
+          "text": "Very nice picture. Where did you stayed during the visit"
+        },
+        {
+          "id": "2",
+          "userName": "Fun_Life_rocks",
+          "text": "I wanted to visit during my trip to India, Unfortunately I missed it"
+        },
+        {
+          "id": "3",
+          "userName": "NightWing_3",
+          "text": "Good photography. I know this place is too beautiful."
+        }
+      ],
+      "likedBy":"kkmenon",
+      "likedByNo":33,
+      "likedByImg":"https://i.pravatar.cc/150?img=34",
+      "hours":7
+    }
+  ],
+  "users":[
+{
+  "id":1,
+  "userName":"Dolfi_patel",
+  "profilePicture": "https://i.pravatar.cc/150?img=1"
+
+},
+{
+  "id":2,
+  "userName":"Footprints_as1",
+  "profilePicture": "https://i.pravatar.cc/150?img=2"
+
+},{
+  "id":3,
+  "userName":"Akax_1",
+  "profilePicture": "https://i.pravatar.cc/150?img=3"
+
+},
+{
+  "id":4,
+  "userName":"Yakshit1",
+  "profilePicture": "https://i.pravatar.cc/150?img=4"
+
+},{
+  "id":5,
+  "userName":"Lady_cool",
+  "profilePicture": "https://i.pravatar.cc/150?img=5"
+
+},
+{
+  "id":6,
+  "userName":"John",
+  "profilePicture": "https://i.pravatar.cc/150?img=6"
+
+},
+{
+  "id":7,
+  "userName":"Ankit",
+  "profilePicture": "https://i.pravatar.cc/150?img=7"
+
+},
+{
+  "id":8,
+  "userName":"GenX",
+  "profilePicture": "https://i.pravatar.cc/150?img=8"
+
+},
+{
+  "id":9,
+  "userName":"Harvey",
+  "profilePicture": "https://i.pravatar.cc/150?img=9"
+
+},
+{
+  "id":10,
+  "userName":"Markle",
+  "profilePicture": "https://i.pravatar.cc/150?img=10"
+
+},{
+  "id":11,
+  "userName":"Harry",
+  "profilePicture": "https://i.pravatar.cc/150?img=11"
+
+},
+{
+  "id":12,
+  "userName":"Diana",
+  "profilePicture": "https://i.pravatar.cc/150?img=12"
+
+},
+{
+  "id":13,
+  "userName":"Ell",
+  "profilePicture": "https://i.pravatar.cc/150?img=13"
+
+},
+{
+  "id":14,
+  "userName":"Nancy",
+  "profilePicture": "https://i.pravatar.cc/150?img=14"
+
+},
+{
+  "id":15,
+  "userName":"Steve",
+  "profilePicture": "https://i.pravatar.cc/150?img=15"
+
+},{
+  "id":16,
+  "userName":"Maheep",
+  "profilePicture": "https://i.pravatar.cc/150?img=16"
+
+},
+{
+  "id":17,
+  "userName":"Neelam",
+  "profilePicture": "https://i.pravatar.cc/150?img=17"
+
+}
+  ]
+}
+

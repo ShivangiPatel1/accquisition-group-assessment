@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+  font-family: "Montserrat", sans-serif !important ;
+  font-size: 16px !important;
+  margin: 0;
+  padding: 0;
+  min-width: fit-content;
+}
+
+main {
+  background-color: #fafafa;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: 0 auto;
+  max-width: 700px !important;
+}
